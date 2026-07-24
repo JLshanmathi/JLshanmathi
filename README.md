@@ -1,27 +1,143 @@
-<h1 align="center">Hi 👋, I'm shanmathi</h1>
-<h3 align="center">Budding fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shanmathi J. L.</h1>
+<h3 align="center">Software Developer | Java Full Stack Developer | MERN Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jlshanmathi&label=Profile%20views&color=0e75b6&style=flat" alt="jlshanmathi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jlshanmathi" alt="jlshanmathi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **FSD(MERN)**
-
-- 💬 Ask me about **HTML,CSS,JS**
-
-- 📫 How to reach me **jl.shanmathi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=JLshanmathi&label=Profile%20Views&color=0e75b6&style=flat" alt="JLshanmathi" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=JLshanmathi&theme=flat&margin-w=10" />
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jlshanmathi&show_icons=true&locale=en&layout=compact" alt="jlshanmathi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jlshanmathi&show_icons=true&locale=en" alt="jlshanmathi" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jlshanmathi&" alt="jlshanmathi" /></p>
+- 💼 Software Developer with **6 months of professional experience**
+- 🌱 Currently enhancing my skills in **Java Full Stack Development & MERN Stack**
+- 🔭 Built full-stack applications including:
+  - 📌 Sulekha Clone
+  - ✅ Todo Management Application
+  - 💼 Job Portal
+- 💡 Interested in Full Stack Development, REST APIs and Cloud Deployment
+- 🏆 Participant - **India AI Impact Buildathon 2026**
+- 🎓 MERN Stack Certified from **GUVI**
+- 📫 Reach me at **jl.shanmathi@gmail.com**
+
+---
+
+## 🚀 Portfolio Projects
+
+### 🔹 Sulekha Clone
+
+Local services marketplace developed using the MERN Stack.
+
+🔗 Live Demo:
+https://sulekhaclone-1.onrender.com/
+
+📂 Repository:
+https://github.com/JLshanmathi/sulekhaclone
+
+---
+
+### 🔹 Todo Management Application
+
+Task management application with JWT Authentication.
+
+🔗 Live Demo:
+https://todoapp-1-c8d3.onrender.com/login
+
+📂 Repository:
+https://github.com/JLshanmathi/TODOAPP
+
+---
+
+### 🔹 Job Portal
+
+Recruitment platform for employers and job seekers.
+
+🔗 Live Demo:
+https://job-portal-app-irvt.onrender.com
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<img src="https://cdn.simpleicons.org/angularjs/DD0031" width="48" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://cdn.simpleicons.org/spring/6DB33F" width="48" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📜 Certifications
+
+- 🎓 Full Stack Development (MERN) – GUVI
+- 🏅 India AI Impact Buildathon 2026 – Participant
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JLshanmathi&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLshanmathi&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JLshanmathi&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/JLshanmathi">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/shanmathi-j-l-a51304267/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
