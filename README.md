@@ -47,7 +47,7 @@ https://github.com/JLshanmathi/sulekhaclone
 Task management application with JWT Authentication.
 
 🔗 Live Demo:
-https://todoapp-1-c8d3.onrender.com/login
+https://todoapp-1-c8d3.onrender.com/
 
 📂 Repository:
 https://github.com/JLshanmathi/TODOAPP
